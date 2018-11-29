@@ -1,0 +1,5 @@
+com/morrisje/service/DemoServiceImpl.class
+com/morrisje/config/WebConfig.class
+com/morrisje/service/DemoService.class
+com/morrisje/controller/DemoController.class
+com/morrisje/config/WellAppInitializer.class
