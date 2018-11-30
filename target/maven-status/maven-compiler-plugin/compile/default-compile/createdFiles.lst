@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 com/morrisje/config/WebAppInitializer.class
 com/morrisje/config/WebConfig.class
 com/morrisje/service/DemoService.class
@@ -10,3 +11,10 @@ com/morrisje/util/Mappings.class
 com/morrisje/service/TodoItemImpl.class
 com/morrisje/util/ViewNames.class
 com/morrisje/controller/DemoController.class
+=======
+com/morrisje/service/DemoServiceImpl.class
+com/morrisje/config/WebConfig.class
+com/morrisje/service/DemoService.class
+com/morrisje/controller/DemoController.class
+com/morrisje/config/WellAppInitializer.class
+>>>>>>> d226f7f56fd0cce29a105cb8ae82842e5318fb1b

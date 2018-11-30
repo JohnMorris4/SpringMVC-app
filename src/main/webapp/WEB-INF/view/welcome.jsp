@@ -44,10 +44,17 @@
 
       <div>
         <h1>${helloMessage}</h1>
+<<<<<<< HEAD
         <h4>Age is ${age}</h4>
         <h2>${welcomeMessage}</h2>
 
 
+=======
+        <h2>${welcomeMessage}</h2>
+
+        <p>Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+      </div>
+>>>>>>> d226f7f56fd0cce29a105cb8ae82842e5318fb1b
 
     </main><!-- /.container -->
 
