@@ -1,4 +1,9 @@
 package com.morrisje.util;
 
-public class Mappings {
+public final  class Mappings {
+//  constants
+    public static final String ITEMS = "items";
+//    Constructors
+    private Mappings() {}
+
 }

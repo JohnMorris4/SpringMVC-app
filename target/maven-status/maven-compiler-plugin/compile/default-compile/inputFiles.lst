@@ -1,0 +1,12 @@
+/home/jmorris/SpringFramework/todo-list/src/main/java/com/morrisje/model/TodoData.java
+/home/jmorris/SpringFramework/todo-list/src/main/java/com/morrisje/config/WebConfig.java
+/home/jmorris/SpringFramework/todo-list/src/main/java/com/morrisje/controller/TodoItemController.java
+/home/jmorris/SpringFramework/todo-list/src/main/java/com/morrisje/model/TodoItem.java
+/home/jmorris/SpringFramework/todo-list/src/main/java/com/morrisje/service/TodoItemService.java
+/home/jmorris/SpringFramework/todo-list/src/main/java/com/morrisje/service/TodoItemImpl.java
+/home/jmorris/SpringFramework/todo-list/src/main/java/com/morrisje/util/Mappings.java
+/home/jmorris/SpringFramework/todo-list/src/main/java/com/morrisje/util/ViewNames.java
+/home/jmorris/SpringFramework/todo-list/src/main/java/com/morrisje/controller/DemoController.java
+/home/jmorris/SpringFramework/todo-list/src/main/java/com/morrisje/config/WebAppInitializer.java
+/home/jmorris/SpringFramework/todo-list/src/main/java/com/morrisje/service/DemoService.java
+/home/jmorris/SpringFramework/todo-list/src/main/java/com/morrisje/service/DemoServiceImpl.java
